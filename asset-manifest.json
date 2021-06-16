@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/veterinaria-turnos/static/css/main.524262f7.chunk.css",
+    "main.js": "/github.io/veterinaria-turnos/static/js/main.e4170344.chunk.js",
+    "main.js.map": "/github.io/veterinaria-turnos/static/js/main.e4170344.chunk.js.map",
+    "runtime-main.js": "/github.io/veterinaria-turnos/static/js/runtime-main.8dc056a2.js",
+    "runtime-main.js.map": "/github.io/veterinaria-turnos/static/js/runtime-main.8dc056a2.js.map",
+    "static/js/2.ab90ede6.chunk.js": "/github.io/veterinaria-turnos/static/js/2.ab90ede6.chunk.js",
+    "static/js/2.ab90ede6.chunk.js.map": "/github.io/veterinaria-turnos/static/js/2.ab90ede6.chunk.js.map",
+    "static/js/3.d84cba25.chunk.js": "/github.io/veterinaria-turnos/static/js/3.d84cba25.chunk.js",
+    "static/js/3.d84cba25.chunk.js.map": "/github.io/veterinaria-turnos/static/js/3.d84cba25.chunk.js.map",
+    "index.html": "/github.io/veterinaria-turnos/index.html",
+    "static/css/main.524262f7.chunk.css.map": "/github.io/veterinaria-turnos/static/css/main.524262f7.chunk.css.map",
+    "static/js/2.ab90ede6.chunk.js.LICENSE.txt": "/github.io/veterinaria-turnos/static/js/2.ab90ede6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc056a2.js",
+    "static/js/2.ab90ede6.chunk.js",
+    "static/css/main.524262f7.chunk.css",
+    "static/js/main.e4170344.chunk.js"
+  ]
+}
