@@ -20,9 +20,19 @@ h1, h2  {
   font-family: 'Staatliches', cursive;
   letter-spacing: 1px;
 }
+
+.portada{
+  background-image: url(./img/mascotas.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 3%;
+  color: rgb(65 51 97);
+  font-style: italic;
+}
+
 .lista-citas .media {
   border-bottom: 1px solid #e1e1e1;
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 .lista-citas .media:last-of-type{
