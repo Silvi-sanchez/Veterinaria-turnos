@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/veterinaria-turnos/static/css/main.524262f7.chunk.css",
-    "main.js": "/veterinaria-turnos/static/js/main.e4170344.chunk.js",
-    "main.js.map": "/veterinaria-turnos/static/js/main.e4170344.chunk.js.map",
+    "main.css": "/veterinaria-turnos/static/css/main.4136daea.chunk.css",
+    "main.js": "/veterinaria-turnos/static/js/main.fb39f900.chunk.js",
+    "main.js.map": "/veterinaria-turnos/static/js/main.fb39f900.chunk.js.map",
     "runtime-main.js": "/veterinaria-turnos/static/js/runtime-main.7f2d4da7.js",
     "runtime-main.js.map": "/veterinaria-turnos/static/js/runtime-main.7f2d4da7.js.map",
     "static/js/2.ab90ede6.chunk.js": "/veterinaria-turnos/static/js/2.ab90ede6.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.d84cba25.chunk.js": "/veterinaria-turnos/static/js/3.d84cba25.chunk.js",
     "static/js/3.d84cba25.chunk.js.map": "/veterinaria-turnos/static/js/3.d84cba25.chunk.js.map",
     "index.html": "/veterinaria-turnos/index.html",
-    "static/css/main.524262f7.chunk.css.map": "/veterinaria-turnos/static/css/main.524262f7.chunk.css.map",
-    "static/js/2.ab90ede6.chunk.js.LICENSE.txt": "/veterinaria-turnos/static/js/2.ab90ede6.chunk.js.LICENSE.txt"
+    "static/css/main.4136daea.chunk.css.map": "/veterinaria-turnos/static/css/main.4136daea.chunk.css.map",
+    "static/js/2.ab90ede6.chunk.js.LICENSE.txt": "/veterinaria-turnos/static/js/2.ab90ede6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/veterinaria-turnos/static/media/mascotas.839bffdf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f2d4da7.js",
     "static/js/2.ab90ede6.chunk.js",
-    "static/css/main.524262f7.chunk.css",
-    "static/js/main.e4170344.chunk.js"
+    "static/css/main.4136daea.chunk.css",
+    "static/js/main.fb39f900.chunk.js"
   ]
 }
